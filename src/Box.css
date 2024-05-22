@@ -1,0 +1,10 @@
+/* src/Box.css */
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ff0000;
+  }
